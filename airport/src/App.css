@@ -1,0 +1,13 @@
+@import url('@blueprintjs/core/lib/css/blueprint.css');
+@import url("@blueprintjs/table/lib/css/table.css");
+@import url("@blueprintjs/select/lib/css/blueprint-select.css");
+.range-slider{
+    width: 50%;
+    margin: 20px auto;
+    border: 1px solid blue;
+    padding: 20px;
+}
+
+.main-component{
+padding: 25px;
+}
